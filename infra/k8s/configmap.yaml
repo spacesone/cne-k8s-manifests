@@ -11,8 +11,8 @@ data:
   KAFKA_EMAIL_TOPIC: email_notifications
   MONGO_URL: mongodb://34.61.233.23:27017
   EMAIL_FROM: mugdhodzs38@gmail.com
-  CART_DB_URI: jdbc:postgresql://:5432/cart_db
-  ORDER_DB_URI: jdbc:postgresql://:5432/order_db
+  CART_DB_URI: jdbc:postgresql://34.27.243.164:5432/cart_db
+  ORDER_DB_URI: jdbc:postgresql://34.27.243.164:5432/order_db
   DB_USERNAME: mugdho
   DB_PASSWORD: admin
   REDIS_HOST: 104.154.69.40
