@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: ecommerce-ui
-          image: olymahmudmugdho/cne-ecommerce-ui
+          image: olymahmudmugdho/ecommerce-ui-service:demo
           ports:
             - containerPort: 4173
           envFrom:
